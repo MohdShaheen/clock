@@ -1,0 +1,13 @@
+body{
+    background-color: black !important;
+}
+.dclock{
+    align-items: center;
+    display: flex;
+    color: white;
+    justify-content: center;
+    font-size: 100px;
+    width: 100%;
+    height: 90vh;
+
+}
